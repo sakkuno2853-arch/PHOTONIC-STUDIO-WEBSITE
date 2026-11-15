@@ -168,7 +168,7 @@ window.SITE = {
     statement: {
       eyebrow: "Our philosophy",
       title: "Beautiful images are\n*felt, not forced.*",
-      image: "assets/images/wedding2.jpeg"
+      image: "data:image/svg+xml,%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20viewBox%3D'0%200%20800%201000'%20preserveAspectRatio%3D'xMidYMid%20slice'%3E%3Cdefs%3E%3ClinearGradient%20id%3D'g'%20x1%3D'0'%20y1%3D'0'%20x2%3D'1'%20y2%3D'1'%3E%3Cstop%20offset%3D'0'%20stop-color%3D'%23c79aa4'%2F%3E%3Cstop%20offset%3D'1'%20stop-color%3D'%2333272d'%2F%3E%3C%2FlinearGradient%3E%3CradialGradient%20id%3D'r'%20cx%3D'0.66'%20cy%3D'.35'%20r%3D'.55'%3E%3Cstop%20offset%3D'0'%20stop-color%3D'%23fff'%20stop-opacity%3D'.35'%2F%3E%3Cstop%20offset%3D'1'%20stop-color%3D'%23fff'%20stop-opacity%3D'0'%2F%3E%3C%2FradialGradient%3E%3C%2Fdefs%3E%3Crect%20width%3D'800'%20height%3D'1000'%20fill%3D'url(%23g)'%2F%3E%3Crect%20width%3D'800'%20height%3D'1000'%20fill%3D'url(%23r)'%2F%3E%3Cellipse%20cx%3D'564'%20cy%3D'620'%20rx%3D'120'%20ry%3D'190'%20fill%3D'%23000'%20fill-opacity%3D'.18'%2F%3E%3Ccircle%20cx%3D'564'%20cy%3D'380'%20r%3D'70'%20fill%3D'%23000'%20fill-opacity%3D'.18'%2F%3E%3C%2Fsvg%3E"
     },
 
     /* ---- 4i. HOW WE WORK ---- */
