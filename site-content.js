@@ -129,7 +129,7 @@ window.SITE = {
         "From intimate portraits to large celebrations, our approach is simple: make you comfortable, watch for the real moment, and create images that feel timeless."
       ],
       link: { label: "Our story", link: "about.html" },
-      image: "wedding1.jpeg"
+      image: "assets/images/wedding1.jpeg"
     },
 
     /* ---- 4d. NUMBERS (change the big numbers freely) ---- */
