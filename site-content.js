@@ -188,7 +188,7 @@ window.SITE = {
       label: "06 / Kind words",
       title: "What our clients\n*say about us.*",
       items: [
-        { quote: "They made us feel so comfortable that the photos look exactly like our real selves. We cried watching the film.", name: "Ananya & Rohan", role: "Wedding, Ranchi" },
+        { quote: "They made us feel so comfortable that the photos look exactly like our real selves. We cried watching the film.", name: "Richa & Bhaskar", role: "Wedding, Ranchi" },
         { quote: "Professional, punctual and incredibly creative. Our product launch visuals instantly lifted the brand.", name: "Meera Kapoor", role: "Founder, Studio Meera" },
         { quote: "The portrait session was effortless. I finally have photos I am proud to use everywhere.", name: "Dev Sharma", role: "Musician" }
       ]
