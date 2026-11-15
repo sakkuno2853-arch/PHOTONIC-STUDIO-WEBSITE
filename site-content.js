@@ -53,10 +53,10 @@ window.SITE = {
      2. CONTACT, WHATSAPP & SOCIAL LINKS
      ====================================================================== */
   contact: {
-    phoneDisplay: "+91 99999 99999",       // How the phone looks on screen
-    phoneLink: "+919999999999",            // Same number, no spaces, with +91
-    email: "hello@photonicstudio.in",
-    whatsappNumber: "919999999999",        // Country code + number, NO + sign, NO spaces
+    phoneDisplay: "+91 93347 18231",       // How the phone looks on screen
+    phoneLink: "+919334718231",            // Same number, no spaces, with +91
+    email: "photonicweddingstudio@gmail.com",
+    whatsappNumber: "919334718231",        // Country code + number, NO + sign, NO spaces
     whatsappMessage: "Hello! I found your website and would like to know more about your photography services.",
     addressLine: "Ranchi, Jharkhand • India",
     hours: "Mon – Sat, 10:00 AM – 7:00 PM",
@@ -66,9 +66,9 @@ window.SITE = {
   },
 
   social: {
-    instagram: "https://instagram.com/",   // Put your full profile link, or "" to hide
-    facebook: "https://facebook.com/",
-    youtube: "https://youtube.com/",
+    instagram: "https://www.instagram.com/photonicofficial?vrfl=MTlncTlsa3gxaWFscA==",   // Put your full profile link, or "" to hide
+    facebook: "https://www.facebook.com/share/1FEwMTJQxb/",
+    youtube: "https://youtube.com/@photonicsstudio-t6g?si=uAOt0HJpk4RxOi8r",
     pinterest: ""
   },
 
